@@ -1,0 +1,14 @@
+
+# Google OAuth secrets - never commit these!
+credentials.json
+token.json
+
+# Optional: ignore the entire secrets folder if you keep everything there
+secrets/
+
+# Other common ignores (add if you want)
+__pycache__/
+*.pyc
+venv/
+*.log
+watcher.log
